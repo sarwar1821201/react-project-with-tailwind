@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "Company_Logo": "https://i.ibb.co/BL6bc6c/google-1-1-1.png",
+    "Job_title": "Technical Database Engineer",
+    "Company_Name": "Google LLC",
+    "Onsite_or_Remote": "Remote",
+    "Location": "Dhaka, Bangladesh",
+    "Fulltime_or_part_time": "FullTime",
+    "Salary": "50000Taka",
+    "Job_Description": "A Technical Database Engineer is a professional responsible for the design, implementation, maintenance, and security of databases within an organization. They are experts in database management systems (DBMS) and work closely with other IT professionals to ensure that databases are optimized for performance, reliability, and data integrity.",
+    "Job_Responsibility": "Database design: Technical Database Engineers must design and implement database schemas, tables, indexes, and other database objects to ensure that data is stored and retrieved efficiently.",
+    "Educational_Requirements": "Must have a BSC Degree",
+    "Experiences": "2 years",
+    "phone": "0134987533",
+    "email": "aehksbk@gmail.com"
+  },
+
+  {
+    "id": 2,
+    "Company_Logo": "https://i.ibb.co/9nn4n6B/netflix-4-1.png",
+    "Job_title": "Senior Product Designer",
+    "Company_Name": "Netflix",
+    "Onsite_or_Remote": "Onsite",
+    "Location": "Chittagng, Bangladesh",
+    "Fulltime_or_part_time": "Part-time",
+    "Salary": "60000Taka",
+    "Job_Description": "A senior product designer is a professional who is responsible for designing, developing, and delivering the overall product design vision for a company. They work closely with cross-functional teams such as product managers, engineers, and other designers to create intuitive, user-centered, and aesthetically pleasing designs that meet business and user needs.",
+    "Job_Responsibility": "Leading the product design process: Senior product designers are responsible for leading the product design process from ideation to implementation. This includes defining design requirements, developing design concepts, and iterating on designs until they are ready for implementation Conducting user research and testing: Senior product designers conduct user research and usability testing to understand user needs, identify pain points, and validate design decisions.",
+    "Educational_Requirements": "Must Have A BBA Degree",
+    "Experiences": "3 years",
+    "phone": "01485639847",
+    "email": "liaykotali@gmail"
+  },
+
+  {
+    "id": 3,
+    "Company_Logo": "https://i.ibb.co/5v0DRyn/tesla-9-1.png",
+    "Job_title": "Software Engineer",
+    "Company_Name": "Tesla",
+    "Onsite_or_Remote": "Onsite",
+    "Location": "Bagura, Bangladesh",
+    "Fulltime_or_part_time": "Full-time",
+    "Salary": "40000Taka",
+    "Job_Description": "A software engineer is a professional who designs, develops, tests, and maintains software applications. Their primary responsibility is to create high-quality software that meets the needs of users and businesses. Software engineers typically work in teams with other developers, project managers, and stakeholders to deliver software products on time and within budget.",
+    "Job_Responsibility": "Designing software applications: Software engineers design software applications based on user requirements and business needs. They create software architecture diagrams, data models, and flowcharts to guide the development process. Developing and testing software code: Software engineers develop software code using programming languages such as Java, Python, C++, and others. They also test their code to ensure it meets quality standards and resolves any bugs or issues.",
+    "Educational_Requirements": "Must Have CSE Degree",
+    "Experiences": "4 Years",
+    "phone": "018767463783",
+    "email": "tesla@gamil.com"
+  },
+
+  {
+    "id": 4,
+    "Company_Logo": "https://i.ibb.co/TBBFVw0/google-1-1-1-1.png",
+    "Job_title": "Technical Database Engineer",
+    "Company_Name": "Google LLC",
+    "Onsite_or_Remote": "Remote",
+    "Location": "Khulna, Bangladesh",
+    "Fulltime_or_part_time": "Part-time",
+    "Salary": "35000Taka",
+    "Job_Description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining the database systems used by an organization. They ensure the reliability, security, and scalability of the database systems, as well as optimize their performance. They also collaborate with other teams such as software engineers, network administrators, and system administrators to ensure the database systems integrate seamlessly with the organization's other systems.",
+    "Job_Responsibility": "Designing and implementing database systems: Technical Database Engineers are responsible for designing and implementing database systems based on the organization's needs. This involves creating database architecture, defining data models, and selecting appropriate database management systems (DBMS). Installing and configuring database software: Technical Database Engineers install and configure DBMS software, including database servers, database management tools, and database client software.",
+    "Educational_Requirements": "Must Have A MSC Degree",
+    "Experiences": "1.5 Years",
+    "phone": "0109847785",
+    "email": "jkdhfhwhke@gmail.com"
+  },
+
+  {
+    "id": 5,
+    "Company_Logo": "https://i.ibb.co/WFhb5Gv/Group-10021.png",
+    "Job_title": "Motion Graphic Designer",
+    "Company_Name": "Motion LLC",
+    "Onsite_or_Remote": "Onsite",
+    "Location": "Sylhet, Bangladesh",
+    "Fulltime_or_part_time": "Part-Time",
+    "Salary": "55000Taka",
+    "Job_Description": "A Motion Graphic Designer is responsible for creating animated visuals and graphics for various multimedia platforms, such as television, film, web, and mobile applications. They collaborate with creative directors, producers, and clients to develop design concepts and bring them to life through motion graphics. They must be proficient in software programs such as Adobe After Effects, Cinema 4D, and Maya to create engaging motion graphics and animations.",
+    "Job_Responsibility": "Creating motion graphics and animations: Motion Graphic Designers create engaging motion graphics and animations for various multimedia platforms such as television, film, web, and mobile applications.Concept development: Motion Graphic Designers collaborate with creative directors, producers, and clients to develop design concepts and bring them to life through motion graphics. ",
+    "Educational_Requirements": "Must Have Mechanical Degree",
+    "Experiences": "5years",
+    "phone": "01836467743",
+    "email": "hjhwgefr@gmail.com"
+  },
+
+  {
+    "id": 6,
+    "Company_Logo": "https://i.ibb.co/9nn4n6B/netflix-4-1.png",
+    "Job_title": "Vector Anatical",
+    "Company_Name": "Geography",
+    "Onsite_or_Remote": "Remote",
+    "Location": "Barisal, Dhaka",
+    "Fulltime_or_part_time": "Full-Time",
+    "Salary": "300000Taka",
+    "Job_Description": "I believe you may be referring to a Vector Analyst, which is a position that is typically found in the fields of engineering, physics, and mathematics. A Vector Analyst is responsible for analyzing and interpreting data that is represented by vectors, which are quantities that have both magnitude and direction.",
+    "Job_Responsibility": "Analyzing and interpreting vector data: Vector Analysts are responsible for analyzing vector data, including determining vector magnitudes and directions, identifying patterns, and extracting meaningful information.Developing and using mathematical models: Vector Analysts use mathematical models to represent vector data and conduct statistical analyses to make predictions and draw conclusions about the data.",
+    "Educational_Requirements": "Must Have a Physics Degree",
+    "Experiences": "2.5 Years",
+    "phone": "01983764664",
+    "email": "ehwhrfshfr@gamil.com"
+  }
+]
